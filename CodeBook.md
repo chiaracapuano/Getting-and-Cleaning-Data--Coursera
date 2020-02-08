@@ -44,7 +44,7 @@ tBodyAccJerkMean
 tBodyGyroMean
 tBodyGyroJerkMean
 
-**List of features in the tidy dataset** \
+**List of features in the tidy dataset** 
 
  [1]"activity"                             "subject"                             
  [3] "tBodyAcc-mean()-X"                    "tBodyAcc-mean()-Y"                   
