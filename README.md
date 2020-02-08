@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data--Coursera
 Week 4 programming assignment
 
-The files in this repo are run_analysis.R and CodeBook.md. 
+The files in this repo are run_analysis.R and CodeBook.md and Week4ProgrammingAssignment.txt. 
 
 **run_analysis.R**  \
 run_analysis.R downloads the zipped files from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip. The description of this dataset can be found at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
