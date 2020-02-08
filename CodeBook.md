@@ -1,9 +1,9 @@
-**The columns in the tidy dateset are listed ate the end of the page, as output of the command names(df_tidy).** /
+**The columns in the tidy dateset are listed ate the end of the page, as output of the command names(df_tidy).** /n
 The column activity is the results of joining the merged train, test and subject datasets with the activity_labels dataset, in order to give the activities a descriptive name.
 The measurements column names come have been extracted from the file features.txt.
 Only the measurements of means and standard deviations are retained.
 
-**Feature description.** /
+**Feature description.** /n
 The features come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. These time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz. Then they were filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise. Similarly, the acceleration signal was then separated into body and gravity acceleration signals (tBodyAcc-XYZ and tGravityAcc-XYZ) using another low pass Butterworth filter with a corner frequency of 0.3 Hz. 
 
 Subsequently, the body linear acceleration and angular velocity were derived in time to obtain Jerk signals (tBodyAccJerk-XYZ and tBodyGyroJerk-XYZ). Also the magnitude of these three-dimensional signals were calculated using the Euclidean norm (tBodyAccMag, tGravityAccMag, tBodyAccJerkMag, tBodyGyroMag, tBodyGyroJerkMag). 
@@ -44,7 +44,7 @@ tBodyAccJerkMean
 tBodyGyroMean
 tBodyGyroJerkMean
 
-**List of features in the tidy dataset**
+**List of features in the tidy dataset** /n
 
  [1]"activity"                             "subject"                             
  [3] "tBodyAcc-mean()-X"                    "tBodyAcc-mean()-Y"                   
