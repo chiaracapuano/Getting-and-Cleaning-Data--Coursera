@@ -14,5 +14,5 @@ A second, independent tidy data (df_tidy) is created, that displays the average 
 **CodeBook.md** \
 CodeBook.md contains a code book that describes the variables, the data, and any transformations or work that has been performed to clean up the data. 
 
-**Week4ProgrammingAssignment.txt**
+**Week4ProgrammingAssignment.txt** \
 Week4ProgrammingAssignment.txt contains the output dataset.
