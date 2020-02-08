@@ -14,12 +14,12 @@ name_vars_df <- chr [1:561] : feature names, of which only mean and std will be 
 labels <- 6 obs. of  2 variables \
 The activities are: \
   label           activity \
-1     1            WALKING \
-2     2   WALKING_UPSTAIRS \
-3     3 WALKING_DOWNSTAIRS \
-4     4            SITTING \
-5     5           STANDING \
-6     6             LAYING \
+     1            WALKING \
+     2   WALKING_UPSTAIRS \
+     3 WALKING_DOWNSTAIRS \
+     4            SITTING \
+     5           STANDING \
+     6             LAYING 
 
 **Feature description.** \
 The features come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. These time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz. Then they were filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise. Similarly, the acceleration signal was then separated into body and gravity acceleration signals (tBodyAcc-XYZ and tGravityAcc-XYZ) using another low pass Butterworth filter with a corner frequency of 0.3 Hz. 
